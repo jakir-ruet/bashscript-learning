@@ -8,7 +8,7 @@
 
 ### Overview
 
-Scripting computer language is an integral part of Unix and Linux-based operating systems. There are two prominent script languages such as <b>B</b>roune <b>S</b>hell (<b>SH</b>) & Broune Again Shell (Bash). Both are used for interfacing the user with the operating system.
+Scripting computer language is an integral part of Unix and Linux-based operating systems. There are two prominent script languages such as <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>S</b>hell (<b>SH</b>) & <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>A</b>gain <b>SH</b>ell (<b>BASH</b>). Both are used for interfacing the user with the operating system.
 
 ### Shell
 
