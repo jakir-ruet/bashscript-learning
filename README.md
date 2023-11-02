@@ -8,11 +8,15 @@
 
 ### Overview
 
-Scripting computer language is an integral part of Unix and Linux-based operating systems. There are two prominent script languages such as <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>S</b>hell (<b>SH</b>) & <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>A</b>gain <b>SH</b>ell (<b>BASH</b>). Both are used for interfacing the user with the operating system.
+Scripting is an integral part of Unix and Linux-based operating systems. There are two prominent script languages such as <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>S</b>hell (<b>SH</b>) & <a href="https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)"><b>B</b>roune</a> <b>A</b>gain <b>SH</b>ell (<b>BASH</b>). Both are used for interfacing the user with the operating system. First release in 1979.
 
 ### Shell
 
-It is a computer program that works via command or instruction for the purpose of interfacing the users to the operating system.
+The Broune Shell is a shell command line interpreter for computer operating systems. That works via command or instruction for the purpose of interfacing the users to the operating system.
+
+### BASH
+
+Bash is a Uninx shell and command language wrtitten by <a href="https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)">Brian Fox</a> for the GNU Project as free software replacement for the <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>S</b>hell. That works via command or instruction for the purpose of interfacing the users to the operating system. First release in 1989.
 
 ## Courtesy of Jakir,
 
