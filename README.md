@@ -34,8 +34,30 @@ The <a href="https://en.wikipedia.org/wiki/POSIX"><b>P</b>ortable <b>O</b>perati
 ### How to run BASH code in vscode
 
 <ul>
-   <li>Give the permission to the respective file that you would like to run.</li>
+   <li>Give permission to the respective file that you would like to run.</li>
    <li>./Select the file that you are run</li>
+</ul>
+
+### Path
+
+Here, it determines the unique location of a file or directory in the system. Two type of paths shown below;
+
+<ul>
+   <li>Absolute Path</li>
+   <li>Relative Path</li>
+</ul>
+
+<b>Absolute Path</b>
+It is a full path specifying the location of a file or directory from the root directory to destination directory.
+Example: /home/jakir/my-file.txt
+
+<b>Relative Path</b>
+The relative path of a file is its location relative to the current working directory. It never starts with a slash (/). It begins with the ongoing work directory. It is works as follows
+
+<ul>
+   <li>Single Dot (.) resolves to the current directory.</li>
+   <li>Double Dot (..) resolves to the parent directory of the present work directory.</li>
+   <li>Tilde (~) represents the home directory of logged in user.</li>
 </ul>
 
 ## Courtesy of Jakir,
