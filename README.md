@@ -12,11 +12,24 @@ Scripting is an integral part of Unix and Linux-based operating systems. There a
 
 ### Shell
 
-The Broune Shell is a shell command line interpreter for computer operating systems. That works via command or instruction for the purpose of interfacing the users to the operating system.
+The <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> Shell is a shell command line interpreter for computer operating systems. That works via command or instruction for the purpose of interfacing the users to the operating system.
 
 ### BASH
 
-Bash is a Uninx shell and command language wrtitten by <a href="https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)">Brian Fox</a> for the GNU Project as free software replacement for the <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>S</b>hell. That works via command or instruction for the purpose of interfacing the users to the operating system. First release in 1989.
+Bash is a Unix shell and command language wrtitten by <a href="https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)">Brian Fox</a> for the GNU Project as free software replacement for the <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>S</b>hell. That works via command or instruction for the purpose of interfacing the users to the operating system. First release in 1989.
+
+### <b>P</b>ortable <b>O</b>perating <b>S</b>ystem <b>I</b>nterface (<b>POSIX</b>)
+
+The <a href="https://en.wikipedia.org/wiki/POSIX"><b>P</b>ortable <b>O</b>perating <b>S</b>ystem <b>I</b>nterface (<b>POSIX</b>)</a> is a family of standards specified by the IEEE Computer Society for maintaining compatibility between operating systems. It is a set of the standard operating system interfaces based on the Unix operating system.
+
+### Difference & comparison between Shell and BASH.
+
+| SL  | Shell                              | BASH                           |
+| :-: | :--------------------------------- | :----------------------------- |
+|  1  | Less enhanced systex               | Less enhanced systex           |
+|  2  | Array, Variable not supports       | Array, Variable supports       |
+|  3  | Location #!/bin/sh                 | Location #!/bin/bash           |
+|  4  | It is not a PROSIX compliant shell | It is a PROSIX compliant shell |
 
 ## Courtesy of Jakir,
 
