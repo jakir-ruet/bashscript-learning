@@ -28,8 +28,15 @@ The <a href="https://en.wikipedia.org/wiki/POSIX"><b>P</b>ortable <b>O</b>perati
 | :-: | :--------------------------------- | :----------------------------- |
 |  1  | Less enhanced systex               | More enhanced systex           |
 |  2  | Array, Variable not supports       | Array, Variable supports       |
-|  3  | Location #!/bin/sh                 | Location #!/bin/bash           |
+|  3  | Shebang (#!) #!/bin/sh             | Shebang (#!) #!/bin/bash       |
 |  4  | It is not a PROSIX compliant shell | It is a PROSIX compliant shell |
+
+### How to run BASH code in vscode
+
+<ul>
+   <li>Give the permission to the respective file that you would like to run.</li>
+   <li>./Select the file that you are run</li>
+</ul>
 
 ## Courtesy of Jakir,
 
