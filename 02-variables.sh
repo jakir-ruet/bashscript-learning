@@ -1,3 +1,5 @@
 #!/bin/bash
-myName = 054003
-echo $myName
+name="Jakir"
+echo $name 
+echo "$name"
+echo "${name}!"
