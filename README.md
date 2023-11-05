@@ -14,6 +14,10 @@ Scripting is an integral part of Unix and Linux-based operating systems. There a
 
 The <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> Shell is a shell command line interpreter for computer operating systems. That works via command or instruction for the purpose of interfacing the users to the operating system.
 
+### Script
+
+A shell script is a file containing commands for shell. A BASH shell is simply a file containing commands for the BASH shell.
+
 ### BASH
 
 Bash is a Unix shell and command language wrtitten by <a href="https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)">Brian Fox</a> for the GNU Project as free software replacement for the <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>S</b>hell. That works via command or instruction for the purpose of interfacing the users to the operating system. First release in 1989.

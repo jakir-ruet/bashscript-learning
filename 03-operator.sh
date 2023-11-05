@@ -12,6 +12,8 @@ echo $((5/2))
 
 # we get an error bash can't deal decimal number. The bash shell does not do floating point arithmetics.
 # if we want to deal it then we will use Basic Calculator (BC) command
-echo $((3.5+1)) 
-
+# echo $((3.5+1))
+ 
+ # using the bc command in linux terminal directly, scale control the decimal number.
+ echo "scale=2; 5/2" | bc
 
