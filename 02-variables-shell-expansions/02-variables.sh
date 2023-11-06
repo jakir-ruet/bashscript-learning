@@ -20,4 +20,13 @@ echo "Your name is $my_name"
 # HOSTNAME > that contains the name of current computer. check by echo "$HOSTNAME"
 # HOSTTYPE > that tell us you what type of processor architecture the computer is running. check by echo "$HOSTTYPE"
 # PS1 (Prompt String 1) > that contains the prompt string shown in the terminal before each command. its environmental variable. check by echo "$PS1"
+
+# we may try this block in linux terminal
+mynum=12345678910
+${parameter:offset:length}
+echo ${$mynum:0:5}
+echo ${$mynum:-2:1}
+echo ${$mynum:-2}
+
 # 2. Bash Shell Variables (Around 95 in total variable)
+
