@@ -11,7 +11,7 @@ echo "Enter your name"
 read my_name
 echo "Your name is $my_name"
 
-# two types of variables
+# two types of shell
 # 1. Bourne Shell Variables (10 in total variables)
 # such as 
 # PATH variable > that contain list of directories where the shell search for executable files to run as command names. check it by echo $PATH
