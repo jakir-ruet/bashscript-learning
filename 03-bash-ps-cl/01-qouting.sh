@@ -1,5 +1,6 @@
 #!/bin/bash
 # echo Jakir & Jasim # we got an error
+# three types of quotes such as Backslash (\), Single Quote ('') and Double Quote ("")
 echo Jakir \& Jasim # we got a result
 
 # another example
