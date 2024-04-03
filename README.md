@@ -28,12 +28,12 @@ The <a href="https://en.wikipedia.org/wiki/POSIX"><b>P</b>ortable <b>O</b>perati
 
 ### Difference & comparison between Shell and BASH.
 
-| SL  | Shell                              | BASH                           |
-| :-: | :--------------------------------- | :----------------------------- |
-|  1  | Less enhanced systex               | More enhanced systex           |
-|  2  | Array, Variable not supports       | Array, Variable supports       |
-|  3  | Shebang (#!) #!/bin/sh             | Shebang (#!) #!/bin/bash       |
-|  4  | It is not a PROSIX compliant shell | It is a PROSIX compliant shell |
+|  SL   | Shell                              | BASH                           |
+| :---: | :--------------------------------- | :----------------------------- |
+|   1   | Less enhanced system               | More enhanced system           |
+|   2   | Array, Variable not supports       | Array, Variable supports       |
+|   3   | Shebang (#!) #!/bin/sh             | Shebang (#!) #!/bin/bash       |
+|   4   | It is not a PROSIX compliant shell | It is a PROSIX compliant shell |
 
 ### How to run BASH code in vscode
 
