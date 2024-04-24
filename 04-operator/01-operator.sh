@@ -1,3 +1,11 @@
+# comparison operators:
+# -eq: Equal to
+# -ne: Not equal to
+# -gt: Greater than
+# -lt: Less than
+# -ge: Greater than or equal to
+# -le: Less than or equal to
+
 # syntax $((expression))
 # echo $(((((12+10)-2)*2)/2))
 # x=12
