@@ -14,7 +14,7 @@ A shell script is a file containing commands for shell. A BASH shell is simply a
 
 ### BASH
 
-Bash is a Unix shell and command language wrtitten by <a href="https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)">Brian Fox</a> for the GNU Project as free software replacement for the <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>S</b>hell. That works via command or instruction for the purpose of interfacing the users to the operating system. First release in 1989.
+Bash is a Unix shell and command language written by <a href="https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)">Brian Fox</a> for the GNU Project as free software replacement for the <a href="https://en.wikipedia.org/wiki/Stephen_R._Bourne"><b>B</b>roune</a> <b>S</b>hell. That works via command or instruction for the purpose of interfacing the users to the operating system. First release in 1989.
 
 ### <b>P</b>ortable <b>O</b>perating <b>S</b>ystem <b>I</b>nterface (<b>POSIX</b>)
 
