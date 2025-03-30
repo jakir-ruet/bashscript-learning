@@ -4,5 +4,3 @@ Bash does not have explicit data types like other programming languages (e.g., P
 - Integer Data (Numbers)
 - Floating-Point (Decimal) not support - Use `bc` or `awk` for decimal calculations.
 - Boolean Data (True/False)
-- Arrays (Indexed Collections)
-- Associative Arrays (Key Value Pairs)- Available in `Bash 4+`, Declared using `declare -A`
