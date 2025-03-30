@@ -16,6 +16,7 @@
 - Array Variables
 - Unset Variables
 - Special Variables (positional parameters)
+
 | Variable        | Description                                                |
 | --------------- | ---------------------------------------------------------- |
 | **$0**          | Name of the script                                         |
